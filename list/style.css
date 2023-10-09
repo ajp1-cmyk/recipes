@@ -1,0 +1,66 @@
+body{
+    background-color: burlywood;
+}
+
+.header{
+    border: 2px solid black;
+    padding: 5px;
+    background-color: aliceblue;
+    font-family: Arial;
+}
+
+img{
+    height:auto;
+    width:500px;
+}
+
+.content{
+    border: 2px solid black;
+    margin-top:15px;
+    margin-right:800px;
+    background-color:rgb(93, 92, 92);
+    padding-left: 0px;
+}
+
+.desc{
+    border:2px solid black;
+    margin:10px;
+    padding: 5px;
+    font-family:Arial;
+    margin-right:0px;
+    background-color: antiquewhite;
+    margin-left:20px;
+    font-size: 35px;
+}
+
+.main-content, .content-heading{
+    border: 2px solid black;
+    margin:10px;
+    margin-bottom:30px;
+    font-size: large;
+    font-family: Arial;
+    
+}
+
+.content-heading{
+    margin-bottom:10px;
+    margin-right: 0px;
+    margin-left:20px;
+    background-color:rgb(253, 110, 110);
+    padding:5px;
+    font-size:30px;
+   
+}
+.main-content{
+    padding: 30px;
+    background-color: rgb(74, 216, 145);
+    margin-left: 0px;
+    margin-right:20px;
+}
+.desc-item{
+    font-family: Arial;
+    margin:10px;
+    font-size: large;
+    margin-bottom: 30px;
+
+}
